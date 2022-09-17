@@ -16,7 +16,9 @@
   <a href="your-twitter-URL">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
-  <img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/>
+</div>
+<div>
+    <img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/>
 </div>
 <!--
 **shera-bhai/shera-bhai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
