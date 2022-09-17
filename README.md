@@ -36,7 +36,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 - :zap: In my free time, I do play games like Valorant & GTA V.
 
-- :mailbox:How to Reach Me: [![Discord Badge](https://img.shields.io/badge/DISCORD-grey?style=plastic&logo=discord&logoColor=blue)]()
+- :mailbox:How to Reach Me: [![Discord Badge](https://img.shields.io/badge/DISCORD-grey?style=for-the-badge&logo=discord&logoColor=blue)](https://discordapp.com/users/576948027256995860)
 
 ---
 
