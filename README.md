@@ -56,4 +56,4 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=shera-bhai&theme=dark&background=000000)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shera-bhai)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://raw.githubusercontent.com/shera-bhai/github-stats/master/generated/languages.svg#gh-dark-mode-only)
