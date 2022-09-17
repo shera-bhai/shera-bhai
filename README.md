@@ -3,7 +3,7 @@
 </div>
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/hqU2KkjW5bE2v2Z7Q2/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/3SL41WtN5l9DNdPJGs/giphy.gif" width="100"/>
 </div>
 <!--
 **shera-bhai/shera-bhai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
