@@ -3,10 +3,6 @@
 </div>
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/qEqiI3Oq7vBkoE236M/giphy.gif" width="100"/>
-</div>
-
-<div id="header" align="center">
   <img src="https://media.giphy.com/media/3SL41WtN5l9DNdPJGs/giphy.gif" width="100"/>
 </div>
 
