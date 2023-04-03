@@ -88,7 +88,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 - 💻 Trying To Improving My Coding Skills Day By Day
 
-- ✉️ How To Reach Me **vishalcodez@gmail.com**
+- ✉️ How To Reach Me **contactsherabhai@gmail.com**
 </p>
 
 
@@ -113,9 +113,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 
 
-![VishalCodez Github Stats](https://github-readme-stats.vercel.app/api?username=VishalCodez&show_icons=true&theme=radical&count_private=true&include_all_commits=true)
+![Shera Bhai Github Stats](https://github-readme-stats.vercel.app/api?username=shera-bhai&show_icons=true&theme=radical&count_private=true&include_all_commits=true)
 
-![Vishal Codez Github Streak](https://github-readme-streak-stats.herokuapp.com/?user=VishalCodez&theme=radical&include_all_commits=true&count_private=true)
+![Shera Bhai Github Streak](https://github-readme-streak-stats.herokuapp.com/?user=shera-bhai&theme=radical&include_all_commits=true&count_private=true)
 
 
 <h3 align="center">
