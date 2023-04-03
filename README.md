@@ -30,11 +30,7 @@
 
 ### :woman_technologist: About Me :
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
-- :telescope: I’m learing new stuffs and contributing to frontend and backend for building web applications, discord server, bots & FiveM Server's.
 
-- :seedling: Exploring the Heights of Java, CSS, PHP & Linux.
-
-- :zap: In my free time, I do play games like Valorant & GTA V.
 
 - :mailbox:How to Reach Me: [![Discord Badge](https://img.shields.io/badge/DISCORD-grey?style=plastic&logo=discord&logoColor=blue)](https://discordapp.com/users/576948027256995860)
 
@@ -84,11 +80,15 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 ## 🙋‍♂️ About Me
 
-- 🧑‍💻 I’m Currently Learning Some **Programing Languages**
+- :telescope: I’m Learing New Stuffs And Contributing To **Frontend** And **Backend** For **Building Web Applications, Discord Server, Bots & FiveM Server's**.
 
-- 💻 Trying To Improving My Coding Skills Day By Day
+- :seedling: Exploring The Heights Of **Java, CSS, PHP & Linux**.
 
-- ✉️ How To Reach Me **contactsherabhai@gmail.com**
+- :zap: In My Free Time, I Do Play Games Like **Valorant, CSGO & GTA V**.
+
+- 💻 Trying To Improving My **Coding Skill's** Day By Day
+
+- ✉️ Reach Me On **contactsherabhai@gmail.com**
 </p>
 
 
@@ -121,8 +121,8 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 <h3 align="center">
 Reach Me On Discord
 </p>
-<a href="https://discord.gg/UHhyB7r267" target="_blank">
-	<img width="50%" align="center" alt="Discord Status" src="https://lanyard.cnrad.dev/api/1056246612789309481?bg=1f1f1f&borderRadius=5px">
+<a href="https://discord.gg/SHSAV4HtxP" target="_blank">
+	<img width="50%" align="center" alt="Discord Status" src="https://lanyard.cnrad.dev/api/576948027256995860?bg=1f1f1f&borderRadius=5px">
 </p>
  <div>
 
