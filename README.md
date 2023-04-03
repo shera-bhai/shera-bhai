@@ -62,7 +62,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
   ![header](https://i.ibb.co/gJFXC7r/vishalcodez.jpg)
 
- Hey 👋 I'm Vishal
+ Hey 👋 I'm Shera Bhai
     </p>
     A Passionate Self Learner/Programmer
 
@@ -76,9 +76,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 
   <a href="https://github.com/VishalCodez/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=VishalCodez">
+    <img src="https://komarev.com/ghpvc/?username=shera-bhai">
 </a>
-<a href="https://github.com/VishalCodez?tab=followers"><img src="https://img.shields.io/github/followers/VishalCodez?label=Followers&style=social" alt="GitHub Badge"></a>
+<a href="https://github.com/shera-bhai?tab=followers"><img src="https://img.shields.io/github/followers/shera-bhai?label=Followers&style=social" alt="GitHub Badge"></a>
   </h3>
   
 
