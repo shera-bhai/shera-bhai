@@ -1,6 +1,6 @@
 <h3 align="center">
 
-  ![header](https://www.canva.com/design/DAFfCE-OOD8/emjcmGA6cRbncpxYwWrEvA/edit?utm_content=DAFfCE-OOD8&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+  ![header](https://www.canva.com/design/DAFfCE-OOD8/V_hA8xvHnR4N_YdqxoGcVA/view?utm_content=DAFfCE-OOD8&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
 
  Hey 👋 I'm Shera Bhai
     </p>
