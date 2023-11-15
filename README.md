@@ -26,7 +26,7 @@
 
 - :telescope: I’m Learing New Stuffs And Contributing To **Frontend** And **Backend** For **Building Web Applications, Discord Server, Bots & FiveM Server's**.
 
-- :seedling: Exploring The Heights Of **Java, CSS, PHP & Linux**.
+- :seedling: Exploring The Heights Of **AI, Linux OS, Cloud Computing & Game Development**.
 
 - :zap: In My Free Time, I Do Play Games Like **Valorant, CSGO & GTA V**.
 
