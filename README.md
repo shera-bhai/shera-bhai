@@ -62,12 +62,12 @@
 ![Shera Bhai Github Streak](https://github-readme-streak-stats.herokuapp.com/?user=shera-bhai&theme=midnight-purple&include_all_commits=true&count_private=true)
 
 
-<h3 align="center">
+<!-- <h3 align="center">
 Reach Me On Discord
 </p>
 <a href="https://discord.gg/SHSAV4HtxP" target="_blank">
 	<img width="50%" align="center" alt="Discord Status" src="https://lanyard.cnrad.dev/api/576948027256995860?bg=1f1f1f&borderRadius=5px">
 </p>
- <div>
+ <div> -->
 
 ![footer](https://i.ibb.co/9yvsZhZ/Hindustan.png)
