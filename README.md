@@ -1,6 +1,6 @@
 <h3 align="center">
 
-  ![header](https://cdn.discordapp.com/attachments/1080206407225311253/1092371320219631656/Shera_Bhai.png)
+  <!-- ![header](https://cdn.discordapp.com/attachments/1080206407225311253/1092371320219631656/Shera_Bhai.png) -->
 
  Hey 👋 I'm Shera Bhai
     </p>
