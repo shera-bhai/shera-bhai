@@ -24,15 +24,15 @@
 
 ## 🙋‍♂️ About Me
 
-- :telescope: I’m Learing New Stuffs And Contributing To **Frontend** And **Backend** For **Building Web Applications, Discord Server, Bots & FiveM Server's**.
+- :telescope: I’m learing new stuffs and contributing to **Frontend** % **Backend** for **Building Web Applications, Discord Server's & Bots along with FiveM Server's**.
 
-- :seedling: Exploring The Heights Of **AI, Linux OS, Cloud Computing & Game Development**.
+- :seedling: Exploring the heights of **AI, Linux OS, Cloud Computing & Game Development**.
 
-- :zap: In My Free Time, I Do Play Games Like **Valorant, CSGO & GTA V**.
+- :zap: In my free time, I do play games like **Valorant, CSGO & GTA V**.
 
-- 💻 Trying To Improving My **Coding Skill's** Day By Day
+- 💻 Trying to improve my **Coding Skill's** day-by-day.
 
-- ✉️ Reach Me On **contactsherabhai@gmail.com**
+- ✉️ Reach me on **contactsherabhai@gmail.com**
 </p>
 
 
